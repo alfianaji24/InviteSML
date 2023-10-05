@@ -8,6 +8,10 @@
 
 Here is the step by step guide on how to use this Project.
 
+```bash
+npm install
+```
+
 ### How to Run Dev Server
 
 ```bash
@@ -18,4 +22,8 @@ npm run dev
 
 ```bash
 npm run build
+```
+
+```bash
+npm start
 ```
