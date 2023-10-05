@@ -1,7 +1,7 @@
-# Prize Number Picker Wheel with React JS
+# Prize Number Picker Randomizer
 
-## Screenshot
-<img src="screenshot.png" alt="Prize Number Picker Wheel with React JS" />
+<!-- ## Screenshot
+<img src="screenshot.png" alt="Prize Number Picker Wheel with React JS" /> -->
 
 
 ## How to Use 📖
